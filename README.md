@@ -7,12 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenEsuella&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
+
+- 🌱 I’m currently learning mysql, java, python, and html
+- 💬 Ask me about it
+- 📫 How to reach me: stevenlim05@mhs.mdp.ac.id.
 <!--
 **Steven /Steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning mysql, java, python, and html
-- 💬 Ask me about it
-- 📫 How to reach me: stevenlim05@mhs.mdp.ac.id.
+
 -->
